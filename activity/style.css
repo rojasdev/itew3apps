@@ -1,0 +1,23 @@
+body{
+	background: #003366 url(image/background.png) repeat-x;
+}
+#container{
+	width: 740px;
+	height: 600px;
+	background-color: #fff;
+	margin: 0 auto;
+}
+#logo{
+	width: 222px;
+	height: 150px;
+	background: url(image/robo1.png) no-repeat;
+	
+	float: left;
+	}
+#header{
+	width: 510px;
+	height: 150px;
+	background: url(image/header.png) no-repeat center right;
+	
+	float: left;
+	}
